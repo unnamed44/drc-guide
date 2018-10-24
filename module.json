@@ -1,0 +1,7 @@
+{
+	"disableAutoUpdate": true,
+	"options": {
+		"niceName": "drc-guide"
+	},
+	"servers": ["https://raw.githubusercontent.com/unnamed44/drc-guide/master/"]
+}
